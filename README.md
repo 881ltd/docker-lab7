@@ -1,7 +1,5 @@
 # Лабораторная работа №7 - Docker
 
-## GitHub Codespaces (с iPhone)
-Откройте **Code → Codespaces → Create codespace on main**, затем терминал.
 
 ### 1. Проверка Docker
 ```bash
